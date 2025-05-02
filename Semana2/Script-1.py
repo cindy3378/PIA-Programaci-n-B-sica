@@ -78,8 +78,3 @@ def mostrar_menu():
 if __name__ == "__main__":
     mostrar_menu()
 
-
-#para ver lso archivos .json y .txt
-from google.colab import files
-files.download('peliculas_resultado.json')  # Para descargar el archivo JSON
-files.download('peliculas_resultado.txt')   # Para descargar el archivo TXT
