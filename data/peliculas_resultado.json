@@ -1,0 +1,173 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/hUvyLAk7IVqrbXxgxYcqvsrRjso.jpg",
+        "genre_ids": [
+            878,
+            10751,
+            16,
+            28
+        ],
+        "id": 72720,
+        "original_language": "en",
+        "original_title": "Hot Wheels AcceleRacers: Ignition",
+        "overview": "Dos equipos de corredores humanos compiten en una carrera a maxima velocidad contra los Robots Racing Dromes en esta trepidante pelicula de Hot Wheels. Se abre una nueva puerta para la competicion, los dos equipos deben conducir bajo las circunstancias adversas, en los reinos de las tormentas, pantanos, cavernas y lava…",
+        "popularity": 4.899,
+        "poster_path": "/lOsHnflo4Gikmk14vXX9w7s2mwi.jpg",
+        "release_date": "2005-01-08",
+        "title": "Hot Wheels Acceleracers: Acelera para sobrevivir",
+        "video": false,
+        "vote_average": 8.231,
+        "vote_count": 107
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/9K4thh2YEpzjI5LX8AwYzFWGeWu.jpg",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            10751,
+            14,
+            9648,
+            878,
+            10770
+        ],
+        "id": 268899,
+        "original_language": "en",
+        "original_title": "Justice League: Starcrossed - The Movie",
+        "overview": "Cuando los thanagarianos visitan la Tierra, Hawkgirl se ve obligada a elegir entre la lealtad a su gente y el amor por sus amigos en su planeta adoptivo. Esta es la única batalla que podría destrozar a los Superhéroes más grandes del mundo para siempre.",
+        "popularity": 3.8731,
+        "poster_path": "/4euOQztpRoN4vJyH0wwjBCydecb.jpg",
+        "release_date": "2004-07-13",
+        "title": "Justice League: Starcrossed - The Movie",
+        "video": false,
+        "vote_average": 8.064,
+        "vote_count": 118
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xOpPJ1uWRQydCRw39ml82h4ZlBS.jpg",
+        "genre_ids": [
+            878,
+            16,
+            28,
+            12
+        ],
+        "id": 300386,
+        "original_language": "en",
+        "original_title": "Justice League: Secret Origins",
+        "overview": "Cuando llega a la tierra una invasion del planeta Martelos mejores heroes del mundo se unen para ponerle un alto a los invasores Superman anima al equipo de superheroes a formar la Liga de la Justicia Superman Batman Linterna Verde Martian Manhunter Flash Wonder Woman y Chica Halcon Esta pelicula de la Liga de la Justicia fue originalmente lanzada como episodios correspondientes a los primeros episodios de la serie.",
+        "popularity": 3.5696,
+        "poster_path": "/bslNNzZkN2DtmEEzxoK3FdGqQpT.jpg",
+        "release_date": "2001-11-17",
+        "title": "Liga de la Justicia: Orígenes Secretos",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 115
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hxEsby5KFhJUAuW6cNfWQLBRnsN.jpg",
+        "genre_ids": [
+            28,
+            16,
+            878
+        ],
+        "id": 11299,
+        "original_language": "ja",
+        "original_title": "カウボーイビバップ 天国の扉",
+        "overview": "Marte, año 2071, poco antes del día de Halloween. Un camión cisterna lleno de productos químicos hace explosión en una de las calles más importantes de la ciudad, liberando un nuevo virus letal que acaba con la vida de cientos de personas. Las autoridades, temiendo un nuevo ataque aún más destructivo, fijan una recompensa millonaria para quien capture a los responsables. Mientras tanto, en la nave \"Bebop\", Spike y su banda de cazadores de recompensas están aburridos y sin dinero, hasta que conocen la noticia de la recompensa...",
+        "popularity": 3.0658,
+        "poster_path": "/rQXAoHhSV0j7uSXODEaowR7QEkr.jpg",
+        "release_date": "2001-09-01",
+        "title": "Cowboy Bebop, la película: Llamando a las puertas del cielo",
+        "video": false,
+        "vote_average": 7.724,
+        "vote_count": 937
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+        "genre_ids": [
+            28,
+            12,
+            16,
+            10751
+        ],
+        "id": 9806,
+        "original_language": "en",
+        "original_title": "The Incredibles",
+        "overview": "Como Mr. Increíble y Elastigirl, Bob y su esposa Helen estaban entre los mejores luchadores contra el crimen. Por fin pueden volver a la acción cuando una misteriosa llamada cita a Bob en una isla remota.",
+        "popularity": 21.1348,
+        "poster_path": "/al1jusd4T7JPatZlj4BuYkDDOzr.jpg",
+        "release_date": "2004-10-27",
+        "title": "Los Increíbles",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 17971
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/40XTRnRRDZ4TzbjcrfW3WvtSsKW.jpg",
+        "genre_ids": [
+            28,
+            16,
+            12,
+            14
+        ],
+        "id": 22537,
+        "original_language": "ja",
+        "original_title": "犬夜叉 鏡の中の夢幻城",
+        "overview": "La película comienza cuando nuestro grupo de aventureros logra derrotar a Naraku. Es entonces cuando Kagura y Kanna (las sirvientes de Naraku) al sentir la muerte de su amo deciden invocar a Kaguya la Princesa de los Cielos para que les muestre la verdadera libertad, pero para eso necesitan una serie de objetos que la liberen del espejo donde se encuentra.",
+        "popularity": 5.9381,
+        "poster_path": "/6lfhYLVBQpd4O6MOqVzKMupj5BG.jpg",
+        "release_date": "2002-12-22",
+        "title": "Inuyasha, la película 2: El castillo de los sueños en el interior del espejo",
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 147
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aWg40fkUvghFwrCya2fHvAEvjud.jpg",
+        "genre_ids": [
+            28,
+            16,
+            12,
+            14
+        ],
+        "id": 42360,
+        "original_language": "ja",
+        "original_title": "犬夜叉 時代を越える想い",
+        "overview": "Inu Yasha es un semidemonio que ha pasado cincuenta años encadenado a un Árbol Sagrado. Ha sido liberado de su encierro por Kagome, una chica que viajó 500 años en el tiempo hasta el Japón feudal. Desde entonces, ambos intentan reunir los fragmentos de la Joya de los Cuatro Espíritus, que resultó dispersada por accidente. Juntos se tendrán que enfrentar con el demonio chino Menomaru, despertado de su letargo gracias a una astilla de la Joya de los Cuatro Espíritus.",
+        "popularity": 8.1751,
+        "poster_path": "/1wpyflz4T5Egto5hY9wXjLo4Fsm.jpg",
+        "release_date": "2001-12-15",
+        "title": "Inuyasha, la película: La batalla a través del tiempo",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 183
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/le7N8M4bAM9suFGGTjvYblfmPT8.jpg",
+        "genre_ids": [
+            16,
+            28,
+            80,
+            9648
+        ],
+        "id": 32022,
+        "original_language": "ja",
+        "original_title": "名探偵コナン 天国へのカウントダウン",
+        "overview": "Los hombres de negro confunden a Sonoko con Haibara, debido a esto intentarán atentar contra su vida. Por otro lado en el rascacielos donde casualmente están Conan, Ran, Ai, los niños, etc. ponen una bomba y se quedarán atrapados en él. (FILMAFFINITY)",
+        "popularity": 10.3311,
+        "poster_path": "/tf0Bw7MAEWDvCM6NDlTEUDPQkwF.jpg",
+        "release_date": "2001-04-21",
+        "title": "Detective Conan 5: Cuenta regresiva al cielo",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 174
+    }
+]
