@@ -1,3 +1,6 @@
+with open('../data/peliculas_resultado.json', encoding='utf-8') as f:
+    peliculas = json.load(f)
+
 import os
 import json
 import re
