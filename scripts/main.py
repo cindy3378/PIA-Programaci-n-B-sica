@@ -1,4 +1,4 @@
-from utils import obtener_datos_peliculas, generar_graficas, guardar_en_excel
+from codigo-final import obtener_datos_peliculas, generar_graficas, guardar_en_excel
 
 def main():
     datos = obtener_datos_peliculas()
